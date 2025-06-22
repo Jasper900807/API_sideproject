@@ -1,1 +1,71 @@
-# API_sideproject
+# GIPHY Search Web App
+
+這是一個使用 GIPHY API 製作的 GIF 搜尋網站，具備即時建議、自訂 API Key、圖片載入更多、滑動回頂等功能，介面簡潔並支援使用者體驗優化。
+
+## 🖼️ 專案特色
+
+- 🔍 即時關鍵字建議（Autocomplete）
+- 💡 預設或自訂 GIPHY API Key
+- 📷 顯示搜尋結果 GIF 圖片（每次載入 50 筆，可持續載入更多）
+- 🆙 回到頂部按鈕
+- 📱 RWD 支援 Bootstrap 美化介面
+- 🖱️ 滑鼠懸停放大動畫效果
+
+## 📁 專案結構
+
+...
+├── GIPHY_search.html # 主頁面 HTML
+├── js/
+│ └── script.js # 所有互動與 API 控制
+├── css/
+│ └── style.css # 網站樣式
+...
+
+
+## 🚀 使用說明
+
+### 1️⃣ 開啟網頁
+
+使用瀏覽器開啟 `GIPHY_search.html` 即可使用。網頁將預設使用內建 API Key。
+
+### 2️⃣ 搜尋 GIF
+
+輸入至少兩個字元後，即會出現關鍵字建議（Autocomplete），點擊或按下 Enter 搜尋。
+
+### 3️⃣ 載入更多
+
+點擊「載入更多圖片」按鈕可以繼續載入下一批 GIF（每批 50 筆）。
+
+### 4️⃣ 自訂 API Key（可選）
+
+1. 點選「點此自訂你的 GIPHY API Key」
+2. 輸入你從 [GIPHY Developers](https://developers.giphy.com/) 申請的 API Key
+3. 所有請求將改用你的 API Key 發送
+
+## 🧪 開發技術
+
+- HTML5 / CSS3 / JavaScript
+- jQuery
+- Bootstrap 5
+- GIPHY API
+
+## 🔑 API Key 設定
+
+預設使用的 API Key：  
+PabCvzKeBsSEEedxWJbGgzRDA64ytqho
+
+
+建議申請自己的 Key 以避免流量限制：  
+[GIPHY Developer Portal](https://developers.giphy.com/)
+
+## 📸 預覽畫面
+
+> 可自行加入畫面截圖於此區塊，例如搜尋動畫 GIF 的畫面。
+
+## 📜 版權
+
+本專案僅供學術或個人學習用途。GIF 圖片版權皆歸 GIPHY 及上傳者所有。
+
+---
+
+📌 GitHub 專案連結：[Jasper900807/API_sideproject](https://github.com/Jasper900807/API_sideproject)
