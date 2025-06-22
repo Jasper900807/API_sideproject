@@ -60,8 +60,9 @@ git clone https://github.com/Jasper900807/API_sideproject.git
 ## 🔑 API Key 設定
 
 預設使用的 API Key：  
+```
 PabCvzKeBsSEEedxWJbGgzRDA64ytqho
-
+```
 
 建議申請自己的 Key 以避免流量限制：  
 [GIPHY Developer Portal](https://developers.giphy.com/)
