@@ -68,7 +68,9 @@ PabCvzKeBsSEEedxWJbGgzRDA64ytqho
 
 ## 📸 預覽畫面
 
-> 可自行加入畫面截圖於此區塊，例如搜尋動畫 GIF 的畫面。
+![{4A0556A1-8B35-4D20-8E5A-E3FB6F858EBD}](https://github.com/user-attachments/assets/61213597-2962-45b0-8999-a620a6f3ed40)
+
+![{1FC99E75-FEDD-41D8-ADDA-26128FE3DF35}](https://github.com/user-attachments/assets/782c3983-85fa-4efa-8f0d-29ac833d755a)
 
 ## 📜 版權
 
