@@ -27,7 +27,7 @@ API_sideproject/
 你可以透過 Git 指令將專案複製到本地端：
 
 ```bash
-git clone https://github.com/Jasper900807/API_sideproject.git
+git clone https://github.com/Jasper900807/GIPHY_search_web_app.git
 ```
 
 ## 🚀 使用說明
